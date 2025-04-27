@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/.idea/
 
 ### Kotlin ###
 .kotlin
@@ -30,3 +31,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Config Files ###
+*.iml
