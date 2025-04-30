@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<jpackage-state version="20.0.2" platform="macOS">
-  <app-version>1.0</app-version>
-  <main-launcher>SuperCalculator</main-launcher>
-  <main-class>MainKt</main-class>
-  <signed>false</signed>
-  <app-store>false</app-store></jpackage-state>
