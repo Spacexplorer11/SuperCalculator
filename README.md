@@ -12,7 +12,7 @@ A simple calculator! All it does is open a Java GUI and allows you to input a si
 ## ✅ What's been added?
 - Basic operations: `+`, `-`, `*`, `/`, `^`
 - Natural language so you can just type 1 plus 1 and get 2!
-- I hav added multi-number support so you can do 1 + 2 + 3 + 4 and get 10! (BIDMAS/BODMAS is supported, however, brackets are not supported yet)
+- I have added multi-number support so you can do 1 + 2 + 3 + 4 and get 10! (BIDMAS/BODMAS is supported, however, brackets are not supported yet)
 
 ## 🔽 How to download?
 You can download it by going to the [releases](https://github.com/Spacexplorer11/SuperCalculator/releases) page and downloading the latest version for your OS.
@@ -21,8 +21,8 @@ Just go to [releases](https://github.com/Spacexplorer11/SuperCalculator/releases
 
 ## 🔧 How to contribute
 
-- This project **is** currently in **active development**, I work on it during my free time.  
-- Any help would be **greatly appreciated!**  
+- This project **is no longer worked on**.
+- However, any help would be **greatly appreciated!**  
 - Do **not** hesitate to open a pull request. I will review it as fast as possible (1-3 days).  
 - If you need help opening a pull request, please follow [this link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or watch [this video](https://www.youtube.com/watch?v=nCKdihvneS0).
 >[!Important]
